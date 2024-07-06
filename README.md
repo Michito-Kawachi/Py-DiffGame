@@ -38,8 +38,8 @@ BBoxの結合のためのmerge_bbox関数を作成した。
 赤枠内の移動量の平均を計算し、上下左右に動かしている。  
 間違いを全て見つければ、ゲームクリア。自動でプログラムが終了する。
 ## 参考資料
-特徴点マッチング：https://qiita.com/grv2688/items/44f9e0ddd429afbb26a2
+特徴点マッチング：https://qiita.com/grv2688/items/44f9e0ddd429afbb26a2  
 オプティカルフロー：https://www.kkaneko.jp/ai/opencv/video.html
 ## 制作期間
-2023.12 ~ 2024.1
+2023.12 ~ 2024.1  
 2024.7.6 公開
